@@ -1,17 +1,25 @@
-import React from 'react';
-import './App.css';
-import AppRouter from './Router';
-import MyNavbar from './components/Navbar'; // นำเข้าคอมโพเนนต์ Navbar
+
+import Banner from "./component/Banner";
+import About from "./component/About";
+import Service from "./component/Service";
+import OurWork from "./component/OurWork";
+import Pricing from "./component/Pricing";
+import Team from "./component/Team";
+import Contact from "./component/Contact";
+import Footer from "./component/Footer";
 
 function App() {
   return (
-    <div className="App">
-      <MyNavbar />
-      <header className="App-header">
-        {/* แสดงเนื้อหาของแอปพลิเคชัน */}
-        <AppRouter />
-      </header>
-    </div>
+    <>
+      <Banner />
+      <About />
+      <Service />
+      <OurWork />
+      <Pricing />
+      <Team />
+      <Contact />
+      <Footer />
+    </>
   );
 }
 
