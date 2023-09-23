@@ -44,7 +44,7 @@ function Contact() {
                     <div class="row" data-aos="fade-up">
 
                         <div class="col-lg-6">
-                            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4348.883864565546!2d100.23812272170422!3d13.814100647661016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e2ed647c15eaf5%3A0x66237150fd2fca0a!2z4Lir4LiI4LiBLuC4i-C4seC4muC5gOC4i-C4reC4o-C5jOC4p-C4tOC4qiDguYHguK3guJnguJTguYwg4LiL4Lix4Lie4Lie4Lil4Liy4LiiKDIwMTAp!5e0!3m2!1sth!2sth!4v1695202181379!5m2!1sth!2sth" frameborder="0" style={{ border: '0', width: '100%', height: '384px' }} allowfullscreen></iframe>
+                            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4348.883864565546!2d100.23812272170422!3d13.814100647661016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e2ed647c15eaf5%3A0x66237150fd2fca0a!2z4Lir4LiI4LiBLuC4i-C4seC4muC5gOC4i-C4reC4o-C5jOC4p-C4tOC4qiDguYHguK3guJnguJTguYwg4LiL4Lix4Lie4Lie4Lil4Liy4LiiKDIwMTAp!5e0!3m2!1sth!2sth!4v1695202181379!5m2!1sth!2sth" frameborder="0" style={{ border: '0', width: '100%', height: '384px' }} allowfullscreen title="Google Maps"></iframe>
                         </div>
                         {/* <div className="col-lg-6">
                         <iframe
