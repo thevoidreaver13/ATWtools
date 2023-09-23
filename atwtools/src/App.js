@@ -1,6 +1,5 @@
 
 import Banner from "./component/Banner";
-
 import About from "./component/About";
 import Service from "./component/Service";
 import OurWork from "./component/OurWork";
