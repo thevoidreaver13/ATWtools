@@ -21,12 +21,12 @@ function Pricing() {
                 <div class="container">
 
                     <div class="section-title">
-                        <span>Pricing</span>
-                        <h2>Pricing</h2>
+                        <span>Latest News</span>
+                        <h2>Latest News</h2>
                         <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
                     </div>
 
-                    <div class="row">
+                    <div class="row" data-aos="fade-up">
                         <div class="col-md-4 col-sm-4 col-xs-12">
                             <div class="single-blog">
                                 <div class="single-blog-img">
@@ -35,12 +35,8 @@ function Pricing() {
                                     </a>
                                 </div>
                                 <div class="blog-meta">
-                                    <span class="comments-type">
-                                        <i class="fa fa-comment-o"></i>
-                                        <a href="#">13 comments</a>
-                                    </span>
                                     <span class="date-type">
-                                        <i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
+                                        <i class="fa fa-calendar"></i>03-05-2023 / 09:10 น.
                                     </span>
                                 </div>
                                 <div class="blog-text">
@@ -67,12 +63,8 @@ function Pricing() {
                                     </a>
                                 </div>
                                 <div class="blog-meta">
-                                    <span class="comments-type">
-                                        <i class="fa fa-comment-o"></i>
-                                        <a href="#">130 comments</a>
-                                    </span>
                                     <span class="date-type">
-                                        <i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
+                                        <i class="fa fa-calendar"></i>03-05-2023 / 09:10 น.
                                     </span>
                                 </div>
                                 <div class="blog-text">
@@ -99,12 +91,8 @@ function Pricing() {
                                     </a>
                                 </div>
                                 <div class="blog-meta">
-                                    <span class="comments-type">
-                                        <i class="fa fa-comment-o"></i>
-                                        <a href="#">10 comments</a>
-                                    </span>
                                     <span class="date-type">
-                                        <i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
+                                        <i class="fa fa-calendar"></i>03-05-2023 / 09:10 น.
                                     </span>
                                 </div>
                                 <div class="blog-text">
