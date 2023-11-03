@@ -23,7 +23,7 @@ function Pricing() {
                     <div class="section-title">
                         <span>Latest News</span>
                         <h2>Latest News</h2>
-                        <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+                        <p>You can check and follow all our news here{'>>'}<a href="blog.html" style={{ textDecoration: 'underline' }}>ALL NEWS</a></p>
                     </div>
 
                     <div class="row" data-aos="fade-up">
@@ -36,13 +36,13 @@ function Pricing() {
                                 </div>
                                 <div class="blog-meta">
                                     <span class="date-type">
-                                        <i class="fa fa-calendar"></i>03-05-2023 / 09:10 น.
+                                        <i class="fa fa-calendar"></i>22-09-2023 / 13:30 น.
                                     </span>
                                 </div>
                                 <div class="blog-text">
-                                    <h4>
-                                        <a href="blog.html">Assumenda repud eum veniam</a>
-                                    </h4>
+                                    <h5>
+                                        <a href="blog.html">Varakana Technology Seminar 2023.</a>
+                                    </h5>
                                     <p>
                                         Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
                                     </p>
@@ -64,13 +64,13 @@ function Pricing() {
                                 </div>
                                 <div class="blog-meta">
                                     <span class="date-type">
-                                        <i class="fa fa-calendar"></i>03-05-2023 / 09:10 น.
+                                        <i class="fa fa-calendar"></i>04-10-2023 / 09:10 น.
                                     </span>
                                 </div>
                                 <div class="blog-text">
-                                    <h4>
-                                        <a href="blog.html">Explicabo magnam quibusdam.</a>
-                                    </h4>
+                                    <h5>
+                                        <a href="blog.html">Calibrator Oil Meter in Lao PDR.</a>
+                                    </h5>
                                     <p>
                                         Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
                                     </p>
@@ -92,13 +92,13 @@ function Pricing() {
                                 </div>
                                 <div class="blog-meta">
                                     <span class="date-type">
-                                        <i class="fa fa-calendar"></i>03-05-2023 / 09:10 น.
+                                        <i class="fa fa-calendar"></i>06-09-2023 / 14:15 น.
                                     </span>
                                 </div>
                                 <div class="blog-text">
-                                    <h4>
-                                        <a href="blog.html">Lorem ipsum dolor sit amet</a>
-                                    </h4>
+                                    <h5>
+                                        <a href="blog.html">Air-Operated Oil Pump Maintenance</a>
+                                    </h5>
                                     <p>
                                         Lorem ipsum dolor sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit Assumenda repud eum veniam optio modi sit explicabo nisi magnam quibusdam.
                                     </p>

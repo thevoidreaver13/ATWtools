@@ -1361,9 +1361,12 @@ section {
   width: 100%;
 }
 
-.blog-text h4 a {
+.blog-text h5 a {
   color: #444;
   text-decoration: none;
+  font-family: "Montserrat", Myriad Pro;
+  font-weight: bold;
+  font-size: 1.05em;
 }
 
 .blog-text h4 {
